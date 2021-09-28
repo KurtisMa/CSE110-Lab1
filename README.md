@@ -1,1 +1,2 @@
-# CSE110-Lab1
+Kurtis Ma's User Page
+Favorite Coding Language: Java
