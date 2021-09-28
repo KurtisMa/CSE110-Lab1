@@ -1,2 +1,3 @@
 Kurtis Ma's User Page
-Favorite Coding Language: Java
+https://kurtisma.github.io/CSE110-Lab1/
+\n Favorite Coding Language: Java
